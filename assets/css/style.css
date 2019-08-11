@@ -1,0 +1,27 @@
+.jumbotron {
+    text-align: center;
+    background-image: url(https://www.thetimes.co.uk/raconteur/s3/raconteur-prod/uploads/2017/11/Hardt-Hyperloop-hero-shot-credits-Hardt-Hyperloop-1024x576.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: gold;
+}
+
+.jumbotron h3 {
+    color: rgb(15, 142, 221);
+}
+
+#panel-color {
+    background-color: rgb(15, 142, 221);
+    color: gold;
+}
+
+#panel-color2 {
+    background-color: rgb(15, 142, 221);
+    color: gold;
+}
+
+#btn-add {
+    background-color: gold;
+    color: rgb(15, 142, 221);
+}
