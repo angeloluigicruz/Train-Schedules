@@ -1,8 +1,8 @@
-# Train-Schedules
+## Train-Schedules
 
 -View the current train schedule or add a train
 
-#Instructions
+##Instructions
 
 -Complete form fields:
   -Train Line
